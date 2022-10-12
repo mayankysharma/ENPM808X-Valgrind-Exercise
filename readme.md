@@ -1,6 +1,6 @@
 # Valgrind Exercise
 
----
+
 
 ## Overview
 Removed two bugs using valgrind and output of the valgrind and  kcachegrind image is stored in the Valgrind_test folder
